@@ -13,32 +13,32 @@
         android:layout_height="wrap_content"
         android:text="My Nanodegree Apps!" />
     <Button
-        android:id="@+id/btn2"
+        android:id="@+id/btn1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Popular Movies"/>
     <Button
-        android:id="@+id/btn3"
+        android:id="@+id/btn2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Stock Hawk"/>
     <Button
-        android:id="@+id/btn4"
+        android:id="@+id/btn3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Build It Bigger"/>
     <Button
-        android:id="@+id/btn5"
+        android:id="@+id/btn4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Make Your App Material"/>
     <Button
-        android:id="@+id/btn6"
+        android:id="@+id/btn5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Go Ubiquitous"/>
     <Button
-        android:id="@+id/btn1"
+        android:id="@+id/btn6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Capstone"/>
